@@ -1,0 +1,11 @@
+.contentSection {
+  border-top: 1px #d5d5d5 solid;
+  border-bottom: 1px #d5d5d5 solid;
+  margin: 2rem 0;
+  padding: 2rem 0;
+  line-height: 1.35rem; 
+}
+
+.content__p {
+  margin-bottom:1rem;
+}
